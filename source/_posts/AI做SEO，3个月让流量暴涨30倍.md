@@ -7,7 +7,8 @@ tags:
   - SEO
   - AI
 description: ChatGPT accelerate SEO content production,AI's appearance, not just a new tool. With the help of AI, assisted SEO project landing, 3 months traffic soared 30 times!
-cover: https://s2.loli.net/2023/09/21/wWryfKodRjU8YCn.png
+cover: https://github.com/zizhuspot/epoch.gostar.top/assets/134364698/6437d812-a14e-4575-9f9d-bceb1bd5c6bf
+
 ---
 
 ChatGPT accelerate SEO content production,AI's appearance, not just a new tool. With the help of AI, assisted SEO project landing, 3 months traffic soared 30 times!
