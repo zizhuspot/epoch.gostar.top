@@ -14,6 +14,9 @@ On 20 September 2023, Huawei's Fully Connected Conference was held in Shanghai. 
 
 Meng said that facing the era of intelligence, in order to seize the historic strategic opportunity of AI, Huawei proposed the All Intelligence strategy - the goal of the strategy is to accelerate the intelligent transformation of thousands of industries, so that all objects can be connected, all applications can be modelled, and all decisions can be computed.
 
+![image](https://github.com/zizhuspot/epoch.gostar.top/assets/134364698/0cc4133f-fe6b-4926-b3d8-809b36e7987b)
+
+
 "Under the guidance of the All Intelligence strategy, Huawei will continue to build a solid base of arithmetic power to enable a hundred modes and a thousand states, and empower a thousand industries."
 
 Meng Wanzhou said, first of all, Huawei is committed to building China's solid arithmetic base, for the world to build the second choice, the future will continue to improve the "soft hard core edge end cloud" integration ability, do thick "black land", to meet the diversity of AI arithmetic needs of all walks of life. "
@@ -21,6 +24,9 @@ Meng Wanzhou said, first of all, Huawei is committed to building China's solid a
 Secondly, Huawei will also support the "blossoming" of large models in the era of intelligence through the opening of computing power bases, AI platforms, and development tools. "We support each organisation to train its own big models using its own data, and allow each industry to develop its own industry big models using its own expertise. "
 
 Finally, Meng said that over the past decades, Huawei has delved into the theoretical nature of communications and computing, and has continued to invest and explore in the fields of mathematics and algorithms, chemistry and materials science, physics and engineering technology, and standards and patents, to build up a rooted technological advantage. Facing the intelligent future, Huawei will continue to adhere to open hardware and open source software, and develop industrial and ecological alliances and talent alliances with industrial partners to build a prosperous computing ecosystem.
+
+![image](https://github.com/zizhuspot/epoch.gostar.top/assets/134364698/7936bf01-b281-4f0b-af9c-799133098d92)
+
 
 After Meng's speech, Huawei's Managing Director, Director of the ICT Infrastructure Business Management Committee, and President of the Enterprise BG, Wang Tao, released the Atlas 900 SuperCluster, a new architecture of the Rise AI compute cluster - as AI enters the era of big models, big computing power is becoming the core engine of AI As AI enters the era of big models, big computing power is becoming the core engine of AI development.
 
