@@ -498,8 +498,8 @@ twikoo:
 # https://giscus.app/
 giscus:
   repo: zizhuspot/epoch.gostar.top
-  repo_id:
-  category_id:
+  repo_id: R_kgDOKWPDNA
+  category_id: DIC_kwDOKWPDNM4CZgFn
   theme:
     light: light
     dark: dark
