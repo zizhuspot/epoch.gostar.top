@@ -9,6 +9,15 @@ tags:
 description: The Federal Reserve as expected, the benchmark interest rate will remain unchanged at 5.25% to 5.50% of the highest in twenty-two years
 cover: https://github.com/zizhuspot/epoch.gostar.top/assets/134364698/90e8862b-327b-43ec-9d81-0a7f33996bec
 ---
+Local time on September 20, the U.S. Federal Reserve ended a two-day monetary policy meeting, announced to maintain the current 5.25%-5.50% target range of the federal funds rate unchanged, in line with the market's previous expectations.
+
+Since the start of the rate hike cycle last year, the Fed has so far accumulated 11 rate hikes, the cumulative rate hike of 525 basis points.
+
+However, the Fed retained the possibility of continuing to raise interest rates in the future in the wording of the resolution. The dot plot shows that most FOMC members expect another rate hike during the year, and policymakers also believe that the degree of easing will be reduced next year. Fed Chairman Jerome Powell also did not appease the market, he said the Fed is prepared to raise interest rates further if appropriate, although stressed that it will "proceed cautiously".
+
+![image](https://github.com/zizhuspot/epoch.gostar.top/assets/134364698/4c2c341d-86ae-4e30-9749-5122f0c2c862)
+
+
 The Federal Reserve as expected, the benchmark interest rate will remain unchanged at 5.25% to 5.50% of the highest in twenty-two years, dot plot unexpectedly hawkish, suggesting that the year another rate hike, next year, or the number of interest rate cuts cut in half to two, 2025 and the longer-term interest rate is expected to rise.
 
 But the Fed retained the possibility of continued rate hikes in the future in its resolution language. The dot plot showed that most FOMC members expect another rate hike during the year, and policymakers also believe that the degree of easing will be reduced next year.
