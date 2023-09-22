@@ -6,7 +6,7 @@ categories:
 tags:
   - Huawei M7
   - HUAWEI ADS 2.0 Advanced Drive System
-description: 描述
+description: As a major revision, the new M7 we had expected more emphasis on comfort, fuel consumption and performance, but Huawei's understanding of luxury cars is often more buttoned down.
 cover: https://s2.loli.net/2023/09/22/6eBNiOq5SyDVhX9.png
 ---
 ![image.png](https://s2.loli.net/2023/09/22/u62HIp3KPEVXUTQ.png)
