@@ -916,6 +916,7 @@ inject:
     - <meta name="monetag" content="26eeefa84da3eaffac3969d30e3d1c44">
   bottom:
     # - <script src="xxxx"></script>
+    - <script>(function(d,z,s){s.src='https://'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('zoawufoy.net',6471863,document.createElement('script'))</script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
